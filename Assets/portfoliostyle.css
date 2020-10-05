@@ -16,17 +16,16 @@ img {
   height: 300px;
 }
 
+#icon {
+  width: 3%;
+  height: 3%;
+}
 .col-sm {
   height: 300px;
 }
 
 .row {
   height: 100px;
-}
-
-#icon {
-  width: 3%;
-  height: 3%;
 }
 
 @media (min-width: 600px) {
