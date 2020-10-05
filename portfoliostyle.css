@@ -23,3 +23,8 @@ img {
 .row {
   height: 100px;
 }
+
+#icon {
+  width: 3%;
+  height: 3%;
+}
