@@ -10,8 +10,8 @@ What you'll find:
 
 ### Links
 
-- https://gkuo0831.github.io/ResponsivePortfolio/
-- https://github.com/gkuo0831/ResponsivePortfolio
+- https://github.com/gkuo0831/PortfolioProject
+-
 
 ### Resources:
 
