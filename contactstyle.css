@@ -3,6 +3,11 @@ img {
   width: 40%;
 }
 
+#icon {
+  width: 3%;
+  height: 3%;
+}
+
 .message {
   width: 100%;
   height: 150px;
