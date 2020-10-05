@@ -28,3 +28,14 @@ img {
   width: 3%;
   height: 3%;
 }
+
+@media (min-width: 600px) {
+  p {
+    font-size: 1.25;
+  }
+}
+@media (min-width: 800px) {
+  p {
+    font-size: 1.5;
+  }
+}
