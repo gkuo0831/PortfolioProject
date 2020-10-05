@@ -11,7 +11,7 @@ What you'll find:
 ### Links
 
 - https://github.com/gkuo0831/PortfolioProject
--
+- https://gkuo0831.github.io/PortfolioProject/
 
 ### Resources:
 
