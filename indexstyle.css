@@ -27,3 +27,14 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+h2 {
+  color: black;
+  text-decoration: underline;
+}
+
+/* Style the image inside the centered container, if needed */
+.selfie {
+  width: 100%;
+  height: 800px;
+}
